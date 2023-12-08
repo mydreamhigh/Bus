@@ -60,4 +60,4 @@ REACT_APP_JWT_SECRET = "your secret here"
 * #### clone the entire repo
 * #### go to app repo
 * #### yarn
-* #### having expo installed in your system, expo start
+* #### having expo installed in your system, expo start 
